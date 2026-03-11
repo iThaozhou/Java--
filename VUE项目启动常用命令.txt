@@ -1,0 +1,4 @@
+VUE项目启动
+1、npm install
+2、启动项目：npm run dev，如果npm run dev不行，则用npm run serve
+3、打包部署：npm run build进行打包，打包完成后项目里面多了一个dist文件夹，将dist扔到服务器

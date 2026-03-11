@@ -1,0 +1,3 @@
+C:/apache-maven-3.6.1
+C:\apache-maven-3.6.1\conf\settings.xml
+C:\repository
